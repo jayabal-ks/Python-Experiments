@@ -1,0 +1,7 @@
+We need to add negative marks for the wrong answers.
+
+How to see if a answer is wrong?
+1. Points - Question column will have value zero.
+2. Question column should have a answer.
+
+If Question column doesn't have any answer, then the points should be zero. Since the question is not answered.
